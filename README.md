@@ -37,5 +37,8 @@ Start exchanging messages between both terminal windows.
 <img width="2816" height="1536" alt="Gemini_Generated_Image_8zzs2t8zzs2t8zzs" src="https://github.com/user-attachments/assets/ebe9ba3c-a7b5-4ed7-a0e6-247ba3cbd0ee" />
 
 
+
+
+
 [![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Protocol](https://img.shields.io/badge/Protocol-TCP%2FIP_Sockets-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Network_socket)
