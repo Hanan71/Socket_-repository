@@ -24,6 +24,7 @@ This project simulates a peer-to-peer/client-server chat architecture using raw 
    cd Socket_-repository
 
    1-Start the Server (Terminal 1):
+   
    python server.py
    
    2-Start the Client (Terminal 2):
