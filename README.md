@@ -1,4 +1,4 @@
-# Real-Time Socket Chat Simulation 💬⚡
+# Real-Time Socket Chat Simulation 💬
 
 A lightweight network communication project demonstrating real-time bi-directional messaging between two endpoints using TCP sockets.
 
